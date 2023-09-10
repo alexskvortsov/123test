@@ -9,3 +9,5 @@ int zzz;
 int aa;
   int fff;
   
+int main();
+int dfdfdf();
