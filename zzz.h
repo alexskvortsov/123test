@@ -8,3 +8,7 @@ int a;
 int b;
 int s;
 int z;
+int fsdf;
+ints fs;
+itn sfsdf;
+
